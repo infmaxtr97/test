@@ -1,0 +1,37 @@
+*{
+
+direction: rtl;
+
+}
+
+#title{
+
+    color: brown;
+    font-size: 30px;
+    font-weight: bold;
+    direction: rtl;
+    background-color: aqua;
+    padding: 25px;
+    margin-top: 20px;
+    border-radius: 25px;
+
+}
+
+.nav {
+
+    direction: rtl;
+    font-size: 30px;
+    font-family: tajawal;
+    margin: 50px 10px 0px 0px;
+    border: solid 3px;
+    border-radius: 25px;
+
+}
+
+p {
+
+width: 400px;
+font-size: 25px;
+
+}
+
